@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 # My GitHub Profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrypradana07&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrypradana07&show_icons=true&theme=radical&token=YOUR_NEW_PERSONAL_ACCESS_TOKEN)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrypradana07&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrypradana07&hide=javascript,html&token=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)
+
 
