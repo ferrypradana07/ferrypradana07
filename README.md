@@ -1,5 +1,7 @@
 ## Hi there 👋
-I am a 23-year-old with a high level of enthusiasm and strong dedication to my work. I believe in hard work and am highly motivated to achieve the goals I set. My programming skills have developed significantly, and I am committed to continuing my growth in this field.
+<h2>
+  I am a 23-year-old with a high level of enthusiasm and strong dedication to my work. I believe in hard work and am highly motivated to achieve the goals I set. My programming skills have developed significantly, and I am committed to continuing my growth in this field.  
+</h2>
 <!--
 **ferrypradana07/ferrypradana07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
